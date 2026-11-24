@@ -1,0 +1,3 @@
+# Raw dataset (not distributed — see README for source link)
+Dataset/Raw/*.csv
+Dataset/Raw/*.json
